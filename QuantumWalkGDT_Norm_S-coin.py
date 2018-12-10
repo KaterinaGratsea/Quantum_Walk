@@ -1,7 +1,7 @@
-#algorithm for finding the correct coin operators for generating high dimensional maximally entangled states
+#algorithm for finding the correct coin operators and generating high dimensional maximally entangled states
 
 #the user changes the parameters : "n=5" #number of steps, "f=5" #number of steps (n=f)
-#also the minimazation parameters: "niter" , "niter_success" and "T"
+#also the minimization parameters: "niter" , "niter_success" and "T"
 
 import numpy as np
 import math
