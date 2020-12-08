@@ -9,4 +9,7 @@ We address it as an optimization problem, where the cost function is the Schmidt
 
 ![Alt Optimization results](https://d3i71xaburhd42.cloudfront.net/2729a539407aa50d017a1a59ab539cae38fca579/3-Figure5-1.png)
 
+
+# Publication
+
 Find the published version of our work [here](https://iopscience.iop.org/article/10.1088/2058-9565/ab6ce6)
